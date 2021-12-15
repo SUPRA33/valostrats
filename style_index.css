@@ -1,0 +1,11 @@
+body {
+    font-family: "Century Gothic", sans-serif;
+    background-color: #b2b2b2;
+    text-align: center;
+}
+h1, h3 {
+    text-decoration: underline;
+}
+#banner {
+    filter: drop-shadow(0px 5px 5px #000000);
+}
